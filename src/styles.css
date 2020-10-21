@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.all_products {
+  display: flex;
+  flex-direction: row;
+}
